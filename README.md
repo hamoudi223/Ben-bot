@@ -7,21 +7,21 @@
 
 
 <div align="center">
-    <a href="https://github.com/saleem525/BENBOTV2">
+    <a href="https://github.com/mayelmayel11/Ben-botV2">
         <img title="Author" src="https://img.shields.io/badge/𝗕𝗘𝗡%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
     </a>
     <br>
-    <a href="https://github.com/saleem525?tab=followers">
-        <img title="Followers" src="https://img.shields.io/github/followers/saleem525?label=Followers&style=social">
+    <a href="https://github.com/mayelmayel11?tab=followers">
+        <img title="Followers" src="https://img.shields.io/github/followers/mayelmayel11?label=Followers&style=social">
     </a>
-    <a href="https://github.com/saleem525/BENBOT/stargazers/">
-        <img title="Stars" src="https://img.shields.io/github/stars/saleem525/BENBOT?style=social">
+    <a href="https://github.com/mayelmayel11/Ben-bot/stargazers/">
+        <img title="Stars" src="https://img.shields.io/github/stars/mayelmayel11/Ben-bot?style=social">
     </a>
-    <a href="https://github.com/saleem525/BENBOT/network/members">
-        <img title="Fork" src="https://img.shields.io/github/forks/saleem525/BENBOT?style=social">
+    <a href="https://github.com/mayelmayel11/Ben-bot/network/members">
+        <img title="Fork" src="https://img.shields.io/github/forks/mayelmayel11/Ben-bot?style=social">
     </a>
-    <a href="https://github.com/saleem525/BENBOT/watchers">
-        <img title="Watching" src="https://img.shields.io/github/watchers/saleem525/BENBOT?label=Watching&style=social">
+    <a href="https://github.com/mayelmayel11/Ben-bot/watchers">
+        <img title="Watching" src="https://img.shields.io/github/watchers/mayelmayel11/Ben-bot?label=Watching&style=social">
     </a>
 </div>
 
@@ -67,13 +67,13 @@
 ### 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙊𝙋𝙏𝙄𝙊𝙉𝙎
 </div>
 <div align="center">
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/saleem525/BENBOT">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/mayelmayel11/Ben-bot">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/saleem525/BENBOT">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/mayelmayel11/Ben-bot">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/saleem525/BENBOT">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/mayelmayel11/Ben-bot">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
 </div>
@@ -119,7 +119,7 @@
 
 
 #### ```NOTHING PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/saleem525/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mayelmayel11/count.svg)
 
 ### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃-𝐁𝐎𝐓`]
 - 🪄 Pashto = ps
