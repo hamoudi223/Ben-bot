@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "dcx",
+    "bot-name": "BEN-BOT",
     "description": "Ben bot simple by WhatsApp",
     "logo": "https://files.catbox.moe/4i7dp7.jpg",
     "keywords": ["bot"],
@@ -33,13 +33,13 @@
         
       },
       "OWNER_NUMBER": {
-        "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx)",
+        "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx,93730275765)",
         "value":"923072380xxxx",
         "required": true
         
       },
-      "READ_CMD": {
-        "description": "Bot will read of msgs if it is enabled, To Enable put true and to disable put false (e.g, true)",
+      "AUTO_DL": {
+        "description": "Bot will Download any media url juat send url",
         "value":"false",
         "required": false
         
@@ -78,36 +78,6 @@
       "ANTI_LINK": {
         "description": "Bot delete or kick links sender from group, To Enable put true and to disable put false (e.g, true)",
         "value":"false",
-        "required": false
-        
-      },
-      "ALWAYS_ONLINE": {
-        "description": "Keep your WhatsApp always online put true to activate (e.g, true)",
-        "value":"false",
-        "required": false
-        
-      },
-      "PRESENCE": {
-        "description": "Set presence of your WhatsApp, you can put online to keep your WhatsApp online for always, put offline to keep the WhatsApp normal, put typing to show that you are typing whenever anybody will message you! put recordig to show that you are recording whenever anybody will message you, or you can also show paused for nothing (e.g, online)",
-        "value":"offline",
-        "required": false
-        
-      },
-      "COUNTRY_BLOCK": {
-        "description": "Block by country code true to Enable, false to disable (e.g, true)",
-        "value":"true",
-        "required": false
-        
-      },
-      "COUNTRY_BLOCK_CODE": {
-        "description": "Block by country code put country code without + (e.g, 972)",
-        "value":"972",
-        "required": false
-        
-      },
-      "PREMIUM_USERS": {
-        "description": "There are some commands which can only be used by the premium users, put premium users number without +, multiple numbers can be seperated by comma (,) (e.g, 923072380xxx, or 923072380xx,9234538003xx)",
-        "value":"972",
         "required": false
         
       }
