@@ -1,10 +1,10 @@
-require('dotenv').config(); 
-const fs = require('fs');
-const path = require('path');
+require("dotenv").config();
+const fs = require("fs");
+const path = require("path");
 
 //ALL GLOBAL
-global.owner = process.env.OWNER_NAME;
-global.nomerowner = process.env.OWNER_NUMBER;
+global.ownername = process.env.OWNER_NAME;
+global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : [];
 global.packname = process.env.BOT_NAME;
 global.author = process.env.OWNER_NAME;
 global.channelChatId = process.env.CHANNEL_JID;

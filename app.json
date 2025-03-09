@@ -49,7 +49,7 @@
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
+      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma like 93730285765,93744215959.... \",\").",
       "value": "93744215959"
     },
     "PUBLIC": {
