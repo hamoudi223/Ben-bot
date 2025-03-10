@@ -38,6 +38,11 @@
         "required": true
         
       },
+      "OWNER_NUMBER": {
+        "description": "Add owner number can working for this owenr okay like 93730285765,93744215959.....bla bla bla",
+        "value":"93744215959"
+        
+      },
       "AUTO_DL": {
         "description": "Bot will Download any media url juat send url",
         "value":"false",
