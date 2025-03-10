@@ -14,7 +14,7 @@ global.benrepo = process.env.BEN_REPO;
 //AUTO FUNCTIONER DONT CHANGE IT
 global.ANTIDELETE = false;
 global.ANTICALL = false;
-global.ANTIVIEWONCE = false;
+global.ANTIVIEWONCE = process.env.ANTIVIEWONCE;
 global.antilink = false;
 global.antilinkkick = false;
 global.antilinkwarn = false;
