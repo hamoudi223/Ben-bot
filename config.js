@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 //ALL GLOBAL
-global.sessionid = process.env.SESSION_ID || "";
+global.SESSION_ID = process.env.SESSION_ID || "";
 global.ownername = process.env.OWNER_NAME || "NOTHING";
 global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : [] || "93744215959";
 global.packname = process.env.BOT_NAME || "BEN-BOT-V1";
@@ -15,19 +15,19 @@ global.benrepo = process.env.BEN_REPO || "https://github.com/mayelmayel11/Ben-bo
 global.benrepodl = process.env.BEN_REPODL || "https://github.com/mayelmayel11/Ben-bot/archive/refs/heads/main.zip";
 
 //AUTO FUNCTIONER DONT CHANGE IT
-global.antidelete = process.env.ANTIDELETE || false;
-global.ANTICALL = process.env.ANTICALL || false;
-global.ANTIVIEWONCE = process.env.ANTIVIEWONCE || false;
-global.antilink = process.env.ANTILINK || false;
-global.antilinkremove = process.env.ANTILINK_REMOVE || false;
-global.antilinkwarn = process.env.ANTILINK_WARN || false;
-global.antibad = process.env.ANTIBAD || false;
-global.antibadwarn = process.env.ANTIBAD_WARN || false;
-global.antibadremove = process.env.ANTIBAD_REMOVE || false;
-global.autodl = process.env.AUTO_DL || false;
-global.antibot = process.env.ANTIBOT || false;
-global.antibotwarn = process.env.ANTIBOT_WARN || false;
-global.antibotremove = process.env.ANTIBOT_REMOVE || false;
+global.antidelete = process.env.ANTIDELETE === "true";
+global.ANTICALL = process.env.ANTICALL === "true";
+global.ANTIVIEWONCE = process.env.ANTIVIEWONCE === "true";
+global.antilink = process.env.ANTILINK === "true";
+global.antilinkremove = process.env.ANTILINK_REMOVE === "true";
+global.antilinkwarn = process.env.ANTILINK_WARN === "true";
+global.antibad = process.env.ANTIBAD === "true";
+global.antibadwarn = process.env.ANTIBAD_WARN === "true";
+global.antibadremove = process.env.ANTIBAD_REMOVE === "true";
+global.autodl = process.env.AUTO_DL === "true";
+global.antibot = process.env.ANTIBOT === "true";
+global.antibotwarn = process.env.ANTIBOT_WARN === "true";
+global.antibotremove = process.env.ANTIBOT_REMOVE === "true";
 global.autoTyping = false;
 global.autoRecord = false; 
 global.autoViewStatus = false;
