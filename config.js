@@ -3,7 +3,6 @@ const fs = require("fs");
 const path = require("path");
 
 //ALL GLOBAL
-global.SESSION_ID = process.env.SESSION_ID || "";
 global.ownername = process.env.OWNER_NAME || "NOTHING";
 global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : [] || "93744215959";
 global.packname = process.env.BOT_NAME || "BEN-BOT-V1";
