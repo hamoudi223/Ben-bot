@@ -69,25 +69,24 @@
         "required": false
         
       },
-      
       "ANTILINKREMOVE": {
         "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link and remove",
         "value": "false",
         "required": false
+        
       },
-    
       "ANTILINKWARN": {
         "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link and get warrning after 3 remove",
         "value": "false",
         "required": false
+        
       },
-    
       "ANTIBAD": {
         "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send bad word",
         "value": "false",
         "required": false
+        
       },
-      
       "AUTO_REACT": {
         "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
         "value":"false",
