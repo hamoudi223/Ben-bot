@@ -61,30 +61,6 @@
         "value":"false",
         "required": false
         
-      },
-      "WELCOME": {
-        "description": "Bot will welcome the new members in GC (Group chat), To Enable put true and to disable put false (e.g, true",
-        "value":"false",
-        "required": false
-        
-      },
-      "ANTI_BAD": {
-        "description": "Bot delete the message from group if any bad word detected, To Enable put true and to disable put false (e.g, true)",
-        "value":"false",
-        "required": false
-        
-      },
-      "ANTI_BOT": {
-        "description": "Bot delete or kick bots from group, To Enable put true and to disable put false (e.g, true)",
-        "value":"false",
-        "required": false
-        
-      },
-      "ANTI_LINK": {
-        "description": "Bot delete or kick links sender from group, To Enable put true and to disable put false (e.g, true)",
-        "value":"false",
-        "required": false
-        
       }
     }
   
