@@ -35,7 +35,11 @@
 - **ANTILINKREMOVE 🚀**
 - **ANTILINKWARN 🚀**
 - **ANTIBOT 🚀**
-- **ANTINAD 🚀**
+- **ANTIBOTREMOVE 🚀**
+- **ANTIBOTWARN 🚀**
+- **ANTIBAD 🚀**
+- **ANTIBADREMOVE 🚀**
+- **ANTIBADWARN 🚀**
 - **VV 🚀**
 - **UPDATE 🚀**
 - © ***POWERD BY NOTHING***
