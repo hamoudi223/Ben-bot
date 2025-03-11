@@ -22,6 +22,11 @@
       "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete",
       "value": "false"
     },
+    "ANTILINK": {
+      "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link",
+      "value": "false",
+      "required": false
+    },
     "AUTO_DL": {
       "description": "Download any media video audio auto like people send you and in group link bot auto dl and send video..",
       "value": "false",

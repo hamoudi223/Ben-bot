@@ -58,7 +58,13 @@
       },
   
       "ANTIBOT": {
-        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete",
+        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete if use bot",
+        "value":"false",
+        "required": false
+      },
+  
+      "ANTILINK": {
+        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete if use link send",
         "value":"false",
         "required": false
         
