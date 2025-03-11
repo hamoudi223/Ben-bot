@@ -27,6 +27,21 @@
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝗕𝗘𝗡-𝗕𝗢𝗧</h1>
 
+
+`© NEW REPOSITORY SILENT-SOBX-MD💛`
+
+--------------------------
+- **ANTILINK 🚀**
+- **ANTILINKREMOVE 🚀**
+- **ANTILINKWARN 🚀**
+- **ANTIBOT 🚀**
+- **ANTINAD 🚀**
+- **VV 🚀**
+- **UPDATE 🚀**
+- © ***POWERD BY NOTHING***
+
+---------
+ 
 <div align="center">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
