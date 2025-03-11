@@ -56,6 +56,13 @@
         "required": false
         
       },
+  
+      "ANTIBOT": {
+        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete",
+        "value":"false",
+        "required": false
+        
+      },
       "AUTO_REACT": {
         "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
         "value":"false",

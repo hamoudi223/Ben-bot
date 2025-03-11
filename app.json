@@ -18,6 +18,10 @@
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
       "value": "."
     },
+    "ANTIBOT": {
+      "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete",
+      "value": "false"
+    },
     "AUTO_DL": {
       "description": "Download any media video audio auto like people send you and in group link bot auto dl and send video..",
       "value": "false",
