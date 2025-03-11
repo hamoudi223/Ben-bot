@@ -38,55 +38,73 @@
         "required": true
         
       },
-      "OWNER_NUMBER": {
-        "description": "Add owner number can working for this owenr okay like 93730285765,93744215959.....bla bla bla",
-        "value":"93744215959"
-        
-      },
-      "AUTO_DL": {
-        "description": "Bot will Download any media url juat send url",
-        "value":"false",
-        "required": false
-        
-      },
-  
       "AUTO_REPLY": {
         "description": "Bot will reply to the msgs like gm, gn, love you, hate you, hi, etc... To Enable put true and to disable put false (e.g, true)",
         "value":"false",
         "required": false
         
       },
-  
       "ANTIBOT": {
-        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete if use bot",
-        "value":"false",
+        "description": "Set true to Automatically deletes bot commands sent by users and warns them.",
+        "value": "false",
         "required": false
+      
       },
-  
-      "ANTILINK": {
-        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete if use link send",
-        "value":"false",
+      "ANTIBOT_REMOVE": {
+        "description": "Set true to Deletes bot commands and instantly removes the user from the group.",
+        "value": "false",
         "required": false
-        
+      
+      },
+      "ANTIBOT_WARN": {
+        "description": "Set true to Deletes bot commands, warns the user up to 3 times, and removes them after the 3rd warning.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTILINK": {
+        "description": "Set true to Deletes messages containing links and warns the user.",
+        "value": "false",
+        "required": false
+      
       },
       "ANTILINKREMOVE": {
-        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link and remove",
+        "description": "Set true to Deletes link messages and instantly removes the user.",
         "value": "false",
         "required": false
-        
+      
       },
       "ANTILINKWARN": {
-        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link and get warrning after 3 remove",
+        "description": "Set true to Warns the user up to 3 times for sending links before removal.",
         "value": "false",
         "required": false
-        
+      
       },
       "ANTIBAD": {
-        "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send bad word",
+        "description": "Set true to Deletes messages containing bad words and warns the user.",
         "value": "false",
         "required": false
-        
+      
       },
+      "ANTIBAD_REMOVE": {
+        "description": "Set true to Deletes messages containing bad words warns the useramd delete user",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTIBAD_WARN": {
+        "description": "Set true to Deletes messages containing bad words warns the user. 3 warnings after removed user",
+        "value": "false",
+        "required": false
+      
+      },
+      "AUTO_DL": {
+        "description": "Set true to Automatically downloads media (Facebook, titkok, Instagram, YouTube) from specific link.",
+        "value": "false",
+        "required": false
+      
+      },
+    
       "AUTO_REACT": {
         "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
         "value":"false",

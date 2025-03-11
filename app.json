@@ -19,31 +19,49 @@
       "value": "."
     },
     "ANTIBOT": {
-      "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete",
+      "description": "Set true to Automatically deletes bot commands sent by users and warns them.",
+      "value": "false"
+    },
+    "ANTIBOT_REMOVE": {
+      "description": "Set true to Deletes bot commands and instantly removes the user from the group.",
+      "value": "false"
+    },
+    "ANTIBOT_WARN": {
+      "description": "Set true to Deletes bot commands, warns the user up to 3 times, and removes them after the 3rd warning.",
       "value": "false"
     },
     "ANTILINK": {
-      "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link",
+      "description": "Set true to Deletes messages containing links and warns the user.",
       "value": "false",
       "required": false
     },
     "ANTILINKREMOVE": {
-      "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link and remove",
+      "description": "Set true to Deletes link messages and instantly removes the user.",
       "value": "false",
       "required": false
     },
     "ANTILINKWARN": {
-      "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send link and get warrning after 3 remove",
+      "description": "Set true to Warns the user up to 3 times for sending links before removal.",
       "value": "false",
       "required": false
     },
     "ANTIBAD": {
-      "description": "Bot will All people just admin in group owner and bot message and user can't delete all user can delete is send bad word",
+      "description": "Set true to Deletes messages containing bad words and warns the user.",
+      "value": "false",
+      "required": false
+    },
+    "ANTIBAD_REMOVE": {
+      "description": "Set true to Deletes messages containing bad words and instantly removes the user.",
+      "value": "false",
+      "required": false
+    },
+    "ANTIBAD_WARN": {
+      "description": "Set true to Warns the user up to 3 times for using bad words before removal.",
       "value": "false",
       "required": false
     },
     "AUTO_DL": {
-      "description": "Download any media video audio auto like people send you and in group link bot auto dl and send video..",
+      "description": "Set true to Automatically downloads media (Facebook, TikTok, Instagram, YouTube) from specific link.",
       "value": "false",
       "required": false
     },

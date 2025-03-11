@@ -12,14 +12,18 @@ global.bench = process.env.BEN_CHANNEL;
 global.benrepo = process.env.BEN_REPO;
 
 //AUTO FUNCTIONER DONT CHANGE IT
-global.ANTIDELETE = false;
+global.antidelete = process.env.ANTIDELETE;
 global.ANTICALL = false;
 global.ANTIVIEWONCE = process.env.ANTIVIEWONCE;
 global.antilink = process.env.ANTILINK;
 global.antilinkremove = process.env.ANTILINK_REMOVE;
 global.antilinkwarn = process.env.ANTILINK_WARN;
 global.antibad = process.env.ANTIBAD;
+global.antibadwarn = process.env.ANTIBAD_WARN;
+global.antibadremove = process.env.ANTIBAD_REMOVE;
 global.antibot = process.env.ANTIBOT;
+global.antibotwarn = process.env.ANTIBOT_WARN;
+global.antibotremove = process.env.ANTIBOT_REMOVE;
 global.autoTyping = false;
 global.autoRecord = false; 
 global.autoViewStatus = false;
